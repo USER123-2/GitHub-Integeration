@@ -11,6 +11,9 @@ class ViewController: UIViewController {
 
     
     var usam = "123"
+    var saim = "asdasx"
+    var saimer = "asdfdsafasc"
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
